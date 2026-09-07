@@ -67,7 +67,7 @@ msgstr[0] "चयनित संग्रह फ़ाइल को वर्त�
 msgstr[1] "चयनित संग्रह फ़ाइलों को वर्तमान फोल्डर में एक्सट्रेक्ट करें"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "वहाँ पर एक्सट्रेक्ट करें (_E)..."
 
 #: thunar-archive-plugin/tap-provider.c:446

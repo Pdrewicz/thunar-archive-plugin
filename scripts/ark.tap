@@ -36,7 +36,7 @@ extract-here)
 	exec ark --batch --autosubfolder --destination "$pwd" "$@"
 	;;
 
-extract-to)
+extract-to-folder)
 	exec ark --batch --dialog --autosubfolder "$@"
 	;;
 

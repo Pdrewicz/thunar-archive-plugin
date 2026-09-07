@@ -35,11 +35,11 @@ create)
 	;;
 
 extract-here)
-	exec file-roller "--extract-to=$pwd" --extract-here --force "$@"
+	exec ~/extract.sh "$@"
 	;;
 
-extract-to)
-	exec file-roller "--default-dir=$pwd" --extract "$@"
+extract-to-folder)
+	exec ~/extract.sh -f "$@"
 	;;
 
 *)

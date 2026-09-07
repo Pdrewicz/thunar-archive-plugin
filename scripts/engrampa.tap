@@ -34,10 +34,10 @@ create)
 	;;
 
 extract-here)
-	exec engrampa --extract-to="$pwd" --extract-here --force "$@"
+	exec engrampa --extract-to-folder="$pwd" --extract-here --force "$@"
 	;;
 
-extract-to)
+extract-to-folder)
 	exec engrampa --extract "$@"
 	;;
 

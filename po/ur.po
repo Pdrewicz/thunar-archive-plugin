@@ -67,7 +67,7 @@ msgstr[0] "منتخب کردہ محفوظہ حالیہ فولڈر میں کھو�
 msgstr[1] "منتخب کردہ محفوظہ جات حالیہ فولڈر میں کھولیں"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "ن_کالیں تا..."
 
 #: thunar-archive-plugin/tap-provider.c:446

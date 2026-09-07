@@ -71,7 +71,7 @@ msgstr[2] "Выняць файлы з абранага архіва ў бягу�
 msgstr[3] "Выняць файлы з абранага архіва ў бягучы каталог"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Выняць у..."
 
 #: thunar-archive-plugin/tap-provider.c:446

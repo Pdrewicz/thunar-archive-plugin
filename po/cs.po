@@ -71,7 +71,7 @@ msgstr[2] "Rozbalí vybrané archivy do aktuálně zobrazované složky"
 msgstr[3] "Rozbalí vybrané archivy do aktuálně zobrazované složky"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Rozbalit do…"
 
 #: thunar-archive-plugin/tap-provider.c:446

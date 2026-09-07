@@ -66,7 +66,7 @@ msgstr[0] "Extraher li selectet archive ad actual fólder"
 msgstr[1] "Extraher li selectet archives ad actual fólder"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Extraher a..."
 
 #: thunar-archive-plugin/tap-provider.c:446

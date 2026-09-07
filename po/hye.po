@@ -68,7 +68,7 @@ msgstr[0] "Բացել ընտրուած պահոցը ընթացիկ պանակո�
 msgstr[1] "Բացել ընտրուած պահոցները ընթացիկ պանակում"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Արտածել․․․"
 
 #: thunar-archive-plugin/tap-provider.c:446

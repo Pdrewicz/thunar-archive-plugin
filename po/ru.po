@@ -73,7 +73,7 @@ msgstr[2] "Извлечь из выбранных архивов в текущи
 msgstr[3] "Извлечь из выбранных архивов в текущий каталог"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Извлечь в..."
 
 #: thunar-archive-plugin/tap-provider.c:446

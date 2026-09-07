@@ -68,7 +68,7 @@ msgid_plural "Extract the selected archives in the current folder"
 msgstr[0] "在当前文件夹中解压选中的的归档文件"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "解压至...(_E)"
 
 #: thunar-archive-plugin/tap-provider.c:446

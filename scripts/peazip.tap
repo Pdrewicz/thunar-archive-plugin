@@ -37,7 +37,7 @@ extract-here)
 exec peazip "-ext2here" "$@"
 ;;
 
-extract-to)
+extract-to-folder)
 exec peazip -ext2to "$@"
 ;;
 

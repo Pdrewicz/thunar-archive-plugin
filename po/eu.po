@@ -70,7 +70,7 @@ msgstr[0] "Aukeratutako fitxategia uneko karpetara atera"
 msgstr[1] "Erauzi hautatutako artxiboak uneko karpetan"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Erauzi hona..."
 
 #: thunar-archive-plugin/tap-provider.c:446

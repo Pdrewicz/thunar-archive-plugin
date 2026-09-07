@@ -69,7 +69,7 @@ msgstr[0] "Eltiri la elektitan dosieron en la nuna dosierujo"
 msgstr[1] "Eltiri la elektitajn dosierojn en la nuna dosierujo"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Eltiri al..."
 
 #: thunar-archive-plugin/tap-provider.c:446

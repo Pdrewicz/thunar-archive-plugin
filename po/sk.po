@@ -72,7 +72,7 @@ msgstr[2] "Rozbalí vybrané súbory do aktuálneho priečinku"
 msgstr[3] "Rozbalí vybrané súbory do aktuálneho priečinku"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Rozbaliť do..."
 
 #: thunar-archive-plugin/tap-provider.c:446

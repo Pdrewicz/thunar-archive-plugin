@@ -46,7 +46,7 @@ extract-here)
 	# popup up any confirmation or file chooser dialogs.
 	;;
 
-extract-to)
+extract-to-folder)
 	# Invoke the archive manager with parameters to extract
 	# the archive files in "$@". The archive manager should
 	# prompt the user with a folder chooser dialog, where

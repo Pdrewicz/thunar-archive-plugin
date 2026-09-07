@@ -68,7 +68,7 @@ msgstr[0] "Afþjappa valið skráasafn hingað"
 msgstr[1] "Afþjappa valin skráasöfn hingað"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "Afþja_ppa í..."
 
 #: thunar-archive-plugin/tap-provider.c:446

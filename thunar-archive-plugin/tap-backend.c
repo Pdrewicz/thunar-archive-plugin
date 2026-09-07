@@ -594,5 +594,5 @@ tap_backend_extract_to (const gchar *folder,
   g_return_val_if_fail (error == NULL || *error == NULL, -1);
 
   /* run the action */
-  return tap_backend_run ("extract-to", folder, files, NULL, window, error);
+  return tap_backend_run ("extract-to-folder", folder, files, NULL, window, error);
 }

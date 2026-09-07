@@ -68,7 +68,7 @@ msgstr[0] "Extraire l'archiu seleccionat dins lo dorsièr corrent"
 msgstr[1] "Extraire los archius seleccionats dins lo dorsièr corrent"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Extraire cap a..."
 
 #: thunar-archive-plugin/tap-provider.c:446

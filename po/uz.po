@@ -66,7 +66,7 @@ msgid_plural "Extract the selected archives in the current folder"
 msgstr[0] "Tanlangan arxivlarni joriy jildga chiqarib olish"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Chiqarib olish..."
 
 #: thunar-archive-plugin/tap-provider.c:446

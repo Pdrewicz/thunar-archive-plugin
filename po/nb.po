@@ -70,7 +70,7 @@ msgstr[0] "Pakk ut valgt arkiv i gjeldende mappe"
 msgstr[1] "Pakk ut valgte arkiv i gjeldende mappe"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Pakk ut til …"
 
 #: thunar-archive-plugin/tap-provider.c:446

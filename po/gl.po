@@ -70,7 +70,7 @@ msgstr[0] "Extraer o arquivo seleccionado no cartafol actual"
 msgstr[1] "Extraer os arquivos seleccionados no cartafol actual"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Extraer en..."
 
 #: thunar-archive-plugin/tap-provider.c:446

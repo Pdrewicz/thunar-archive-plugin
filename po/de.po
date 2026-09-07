@@ -71,7 +71,7 @@ msgstr[0] "Das ausgewählte Archiv in den aktuellen Ordner entpacken"
 msgstr[1] "Die ausgewählten Archive in den aktuellen Ordner entpacken"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "Entpacken _nach …"
 
 #: thunar-archive-plugin/tap-provider.c:446

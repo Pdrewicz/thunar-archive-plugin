@@ -67,7 +67,7 @@ msgstr[0] "Ssef aɣbar yettwafernen deg ukaram amiran"
 msgstr[1] "Ssef iɣbaren yettwafernen deg ukaram amiran "
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr ""
 
 #: thunar-archive-plugin/tap-provider.c:446

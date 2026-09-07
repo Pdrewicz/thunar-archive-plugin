@@ -69,7 +69,7 @@ msgstr[1] "Atspiest atlasītos arhīvus esošajā mapē"
 msgstr[2] "Atspiest atlasīto arhīvu esošajā mapē"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Atspiest..."
 
 #: thunar-archive-plugin/tap-provider.c:446

@@ -67,7 +67,7 @@ msgstr[0] "Ерекшеленген архивт(ерд)і ағымдағы бу
 msgstr[1] "Ерекшеленген архивт(ерд)і ағымдағы бумаға тарқату"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "Қ_айда тарқату..."
 
 #: thunar-archive-plugin/tap-provider.c:446

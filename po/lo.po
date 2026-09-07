@@ -65,7 +65,7 @@ msgid_plural "Extract the selected archives in the current folder"
 msgstr[0] "ແຕກໄຟລ໌ບີບອັດທີ່ເລືອກໄວ້ໃນໂຟນເດີປັດຈຸບັນ"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_ແຕກໄຟລ໌ໄປທີ່..."
 
 #: thunar-archive-plugin/tap-provider.c:446

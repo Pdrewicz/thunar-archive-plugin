@@ -67,7 +67,7 @@ msgid_plural "Extract the selected archives in the current folder"
 msgstr[0] "현재 폴더에 선택한 압축파일 풀기"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "압축 풀기(_E)..."
 
 #: thunar-archive-plugin/tap-provider.c:446

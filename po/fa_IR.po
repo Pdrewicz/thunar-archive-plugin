@@ -68,7 +68,7 @@ msgstr[0] "استخراج آرشیو انتخاب شده در پوشه کنون�
 msgstr[1] "استخراج آرشیو های انتخاب شده در پوشه کنونی"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "استخراج در..."
 
 #: thunar-archive-plugin/tap-provider.c:446

@@ -143,7 +143,7 @@ autotools will be removed in a future release.
   interface, that requires the archive manager to install a .desktop file
   as usual, that lists the supported mime types, and a .tap file that acts
   as a wrapper script to invoke the archive manager with the appropriate
-  parameters for the create, extract-here and extract-to actions.
+  parameters for the create, extract-here and extract-to-folder actions.
 - Wrapper scripts for file-roller (the GNOME archive manager) and ark (the
   KDE archive manager) have been added. Xarchiver, the Xfce archive manager,
   will include an appropriate xarchiver.tap file in the next release.

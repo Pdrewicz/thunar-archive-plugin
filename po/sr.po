@@ -69,7 +69,7 @@ msgstr[1] "Распакујте изабране архиве у тренутн�
 msgstr[2] "Извуци изабрана складишта у тренутну фасциклу"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "Извуци _у..."
 
 #: thunar-archive-plugin/tap-provider.c:446

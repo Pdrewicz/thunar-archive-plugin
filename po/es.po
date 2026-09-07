@@ -74,7 +74,7 @@ msgstr[1] "Extraer los archivadores seleccionados en la carpeta actual"
 msgstr[2] "Extraer los archivadores seleccionados en la carpeta actual"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "E_xtraer en..."
 
 #: thunar-archive-plugin/tap-provider.c:446

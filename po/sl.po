@@ -70,7 +70,7 @@ msgstr[2] "Razširi izbrane arhive v trenutno mapo"
 msgstr[3] "Razširi izbrane arhive v trenutno mapo"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Razširi v ..."
 
 #: thunar-archive-plugin/tap-provider.c:446

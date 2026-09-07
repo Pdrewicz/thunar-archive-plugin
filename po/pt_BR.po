@@ -73,7 +73,7 @@ msgstr[1] "Extrai os arquivos selecionados na pasta atual"
 msgstr[2] "Extrair os arquivos selecionados na pasta atual"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Extrair para..."
 
 #: thunar-archive-plugin/tap-provider.c:446

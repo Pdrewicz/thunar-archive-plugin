@@ -71,7 +71,7 @@ msgstr[2] "Розпакувати вибрані архіви у поточну 
 msgstr[3] "Розпакувати вибрані архіви у поточну теку??"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Розпакувати в..."
 
 #: thunar-archive-plugin/tap-provider.c:446

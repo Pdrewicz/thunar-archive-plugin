@@ -71,7 +71,7 @@ msgstr[2] "Išarchyvuoti pasirinktus archyvus šiame aplanke"
 msgstr[3] "Išarchyvuoti pasirinktus archyvus šiame aplanke"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Išarchyvuoti į..."
 
 #: thunar-archive-plugin/tap-provider.c:446

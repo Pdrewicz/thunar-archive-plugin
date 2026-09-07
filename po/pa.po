@@ -67,7 +67,7 @@ msgstr[0] "ਚੁਣੇ ਆਰਚੀਵ ਨੂੰ ਮੌਜੂਦਾ ਫੋਲ�
 msgstr[1] "ਚੁਣੇ ਆਰਚੀਵ ਮੌਜੂਦਾ ਫੋਲਡਰ 'ਚ ਖੋਲ੍ਹੋ"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "ਖੋਲ੍ਹੋ(_E)..."
 
 #: thunar-archive-plugin/tap-provider.c:446

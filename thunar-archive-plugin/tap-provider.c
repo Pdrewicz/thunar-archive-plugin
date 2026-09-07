@@ -435,14 +435,14 @@ tap_provider_get_file_menu_items (ThunarxMenuProvider *menu_provider,
           items = g_list_append (items, item);
         }
 
-      /* append the "Extract To..." menu item */
-      item = thunarx_menu_item_new ("Tap::extract-to",
-                                    _("_Extract To..."),
+      /* append the "Extract To Folder" menu item */
+      item = thunarx_menu_item_new ("Tap::extract-to-folder",
+                                    _("_Extract To Folder"),
                                     dngettext (GETTEXT_PACKAGE,
                                                "Extract the selected archive",
                                                "Extract the selected archives",
                                                n_files),
-                                    "tap-extract-to");
+                                    "tap-extract-to-folder");
 
       g_object_set_qdata_full (G_OBJECT (item), tap_item_files_quark,
                                thunarx_file_info_list_copy (files),

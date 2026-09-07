@@ -75,7 +75,7 @@ msgstr[1] "Extraire les archives sélectionnées dans le dossier courant"
 msgstr[2] "Extraire les archives sélectionnées dans le dossier courant"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "Extraire _vers…"
 
 #: thunar-archive-plugin/tap-provider.c:446

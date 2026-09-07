@@ -69,7 +69,7 @@ msgstr[0] "Seçilen arşivi mevcut dizine aç"
 msgstr[1] "Seçilen arşivleri mevcut dizine aç"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Çıkar..."
 
 #: thunar-archive-plugin/tap-provider.c:446

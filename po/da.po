@@ -68,7 +68,7 @@ msgstr[0] "Udpak det valgte arkiv i den nuværende mappe"
 msgstr[1] "Udpak de valgte arkiver i den nuværende mappe"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Udpak til ..."
 
 #: thunar-archive-plugin/tap-provider.c:446

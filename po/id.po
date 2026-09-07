@@ -66,7 +66,7 @@ msgid_plural "Extract the selected archives in the current folder"
 msgstr[0] "Ekstrak arsip yang dipilih ke folder saat ini"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Ekstrak Ke..."
 
 #: thunar-archive-plugin/tap-provider.c:446

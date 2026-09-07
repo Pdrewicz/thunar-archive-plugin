@@ -69,7 +69,7 @@ msgstr[1] "Raspakiraj odabrane arhive u trenutnu mapu"
 msgstr[2] "Raspakiraj odabrane arhive u trenutnu mapu"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Raspakiraj u..."
 
 #: thunar-archive-plugin/tap-provider.c:446

@@ -71,7 +71,7 @@ msgstr[1] "חלץ את הארכיונים הנבחרים בתוך התיקייה
 msgstr[2] "חלץ את הארכיונים הנבחרים בתוך התיקייה הנוכחית"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_חלץ אל..."
 
 #: thunar-archive-plugin/tap-provider.c:446

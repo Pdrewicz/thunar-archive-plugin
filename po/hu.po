@@ -70,7 +70,7 @@ msgstr[0] "A kiválasztott archívum kibontása az aktuális mappába"
 msgstr[1] "A kiválasztott archívumok kibontása az aktuális mappába"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Kibontás máshova…"
 
 #: thunar-archive-plugin/tap-provider.c:446

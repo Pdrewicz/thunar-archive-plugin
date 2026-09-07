@@ -67,7 +67,7 @@ msgstr[0] "Paki valitud arhiiv lahti samasse kausta"
 msgstr[1] "Paki valitud arhiivid lahti samasse kausta"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "Paki arhiiv lahti asukohta"
 
 #: thunar-archive-plugin/tap-provider.c:446

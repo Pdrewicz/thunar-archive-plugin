@@ -70,7 +70,7 @@ msgstr[0] "Αποσυμπιέζει το επιλεγμένο αρχείο στ�
 msgstr[1] "Αποσυμπιέζει τα επιλεγμένα αρχεία στο τρέχοντα φάκελο"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "Αποσυμπίεση σ_το..."
 
 #: thunar-archive-plugin/tap-provider.c:446

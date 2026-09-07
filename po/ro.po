@@ -71,7 +71,7 @@ msgstr[1] "Dezarhivează arhivele selectate în dosarul curent"
 msgstr[2] "Dezarhivează arhivele selectate în dosarul curent"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Dezarhivează în..."
 
 #: thunar-archive-plugin/tap-provider.c:446

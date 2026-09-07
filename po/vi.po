@@ -67,7 +67,7 @@ msgid_plural "Extract the selected archives in the current folder"
 msgstr[0] "Giải nén tệp tin được chọn trong thư mục hiện tại"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "_Giải nén đến..."
 
 #: thunar-archive-plugin/tap-provider.c:446

@@ -69,7 +69,7 @@ msgid_plural "Extract the selected archives in the current folder"
 msgstr[0] "選択したアーカイブを現在のフォルダーに展開する"
 
 #: thunar-archive-plugin/tap-provider.c:444
-msgid "_Extract To..."
+msgid "_Extract To Folder"
 msgstr "別の場所に展開(_E)..."
 
 #: thunar-archive-plugin/tap-provider.c:446

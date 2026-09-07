@@ -1,5 +1,5 @@
 sizes = [16]
-icons = ['tap-create', 'tap-extract-to', 'tap-extract']
+icons = ['tap-create', 'tap-extract-to-folder', 'tap-extract']
 
 foreach size : sizes
   foreach icon : icons
